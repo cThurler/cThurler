@@ -1,6 +1,6 @@
 > 🇺🇸 English version available in [README.en.md](README.en.md)
 
-### Olá, tudo bem? 👋
+### Olá! 👋
 
 #### Desenvolvedor Full-Stack | Estudante do CEFET/RJ em Sistemas de Informação 
 
